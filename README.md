@@ -1,16 +1,18 @@
-# blog_augsburg
+# Blog Augsburg
 
-A new Flutter project.
+A Flutter blog application about the city Augsburg.
 
-## Getting Started
+Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-This project is a starting point for a Flutter application.
+Facebook: [JohannesMilke](https://www.facebook.com/milkejohannes "Facebook Johannes Milke")
 
-A few resources to get you started if this is your first Flutter project:
+Medium: [@JohannesMilke](https://medium.com/@johannesmilke  "Flutter Articles of Johannes Milke")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### All my Flutter projects --> [View on Instagram](https://www.instagram.com/johannesmilke/ "My Flutter projects")
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+#### If you are new to Flutter and want to get started --> [Install Flutter](https://flutter.io/docs/get-started/install "Get started with Flutter").
+
+\
+Feel free to reach out to me through email at milke.johannes@gmail.com if you have any questions or feedback! :blush:
+
+
